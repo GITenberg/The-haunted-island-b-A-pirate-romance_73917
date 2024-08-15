@@ -8,6 +8,9 @@ contributor:
     deathdate: 1946
     gutenberg_agent_id: '57274'
     url: http://www.gutenberg.org/2009/agents/57274
+covers:
+- cover_type: archival
+  image_path: 73917-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Visiak, E. H. (Edward Harold)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57273
     wikipedia: https://en.wikipedia.org/wiki/E._H._Visiak
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73917#The-haunted-island-b-A-pirate-romance
 gutenberg_issued: '2024-06-26'
 gutenberg_type: Text
 identifiers:
